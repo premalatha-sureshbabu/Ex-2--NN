@@ -122,7 +122,9 @@ plt.show()
 # OUTPUT:
 
 ![Screenshot 2025-03-21 113512](https://github.com/user-attachments/assets/c4a0dd90-2edc-451d-9a79-810527fa5721)
+
 ![Screenshot 2025-03-21 113541](https://github.com/user-attachments/assets/fd1a5ab7-f711-4db0-b25d-5712a8f3da0f)
+
 ![Screenshot 2025-03-21 113551](https://github.com/user-attachments/assets/07805c1e-765a-4261-aec4-ad5a675ad7ce)
 
 # RESULT:
